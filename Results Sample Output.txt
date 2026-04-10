@@ -1,0 +1,20 @@
+Results Sample Output
+
+============================================================
+              RESULTS
+============================================================
+Name            Avg    Grade  Comment
+------------------------------------------------------------
+abhi            84.7   B      Very Good 👍
+anuj            77.7   C      Good 🙂
+jay             74.0   C      Good 🙂
+
+============================================================
+          CLASS STATISTICS
+============================================================
+Total Students : 3
+Class Average  : 78.8
+Highest        : 84.7 (abhi)
+Lowest         : 74.0 (jay)
+
+✨ Program Finished Successfully!
